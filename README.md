@@ -10,8 +10,7 @@ This page offers DL-driven tools for analyzing 3D charge density data. With this
 The code is tested in under packages.
 
 * OS : Ubuntu 22.04
-
-
+* python : 3.8.16
 ## Getting Started
 All the codes are available as Jupyter Notebook files  
 `./point_net_class.ipynb., ./sp3d_classfi.ipynb., ./sp3d_regress-bangap_form.ipynb.
