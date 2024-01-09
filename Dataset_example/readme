@@ -2,5 +2,6 @@ Material project charge densiy data download following below link
 https://gist.github.com/danielcieslinski/8d74021fd3030ae62ba780ae30bd362b.
 
 
-After collect all charge density data of Material project, download
+After collect all charge density data of Material project, download mp_id_data.json file.
+
 mp_prepare.ipynb
