@@ -3,6 +3,8 @@ https://gist.github.com/danielcieslinski/8d74021fd3030ae62ba780ae30bd362b.
 After collect all charge density data of Material project, download mp_id_data.json file.
 
 In case of ICSD data, Make grd volumeric data by electron denstiy module of vesta.
-After preparing all grd files, download
+After preparing all grd files, download icsd_id_sturc.json and icsd_vol.json files in ICSD_charge_density folder.
+
+
 All the codes are available as Jupyter Notebook files
-./mp_prepare.ipynb.
+./mp_prepare.ipynb. ./ucsd_prepare.ipynb.
