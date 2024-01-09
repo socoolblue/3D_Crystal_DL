@@ -1,7 +1,8 @@
 Material project charge densiy data download following below link
 https://gist.github.com/danielcieslinski/8d74021fd3030ae62ba780ae30bd362b.
-
-
 After collect all charge density data of Material project, download mp_id_data.json file.
 
-mp_prepare.ipynb
+In case of ICSD data, Make grd volumeric data by electron denstiy module of vesta.
+After preparing all grd files, download
+All the codes are available as Jupyter Notebook files
+./mp_prepare.ipynb.
