@@ -11,6 +11,8 @@ The code is tested in under packages.
 
 * OS : Ubuntu 22.04
 * python : 3.8.16
+* torch : 1.8.1
+* Another package need to run code is listed in requirements.txt
 ## Getting Started
 All the codes are available as Jupyter Notebook files  
 `./point_net_class.ipynb., ./sp3d_classfi.ipynb., ./sp3d_regress-bangap_form.ipynb.
