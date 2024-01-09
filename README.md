@@ -14,7 +14,7 @@ The code is tested in under packages.
 
 ## Getting Started
 All the codes are available as Jupyter Notebook files  
-`.
+`./point_net_class.ipynb., ./sp3d_classfi.ipynb., ./sp3d_regress-bangap_form.ipynb.
 
 ## Reference
 Please cite follwing
