@@ -21,6 +21,7 @@ All the codes are available as Jupyter Notebook files
 Please cite follwing
 
 DOI : https://doi.org/10.1038/10.1038/s41524-024-01402-7
+
 Title : Deep learning for symmetry classification using sparse 3D electron density data for inorganic compounds.
 
 ***
