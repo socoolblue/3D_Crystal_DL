@@ -20,8 +20,8 @@ All the codes are available as Jupyter Notebook files
 ## Reference
 Please cite follwing
 
-DOI and link will be updated.
-
+DOI : https://doi.org/10.1038/10.1038/s41524-024-01402-7
+Title : Deep learning for symmetry classification using sparse 3D electron density data for inorganic compounds.
 
 ***
 This software is released under the MIT License.
